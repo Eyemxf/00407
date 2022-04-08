@@ -1,0 +1,67 @@
+﻿  Reading Qt configuration (C:/Qt/Qt6.2/6.2.4/msvc2019_64/bin/qmake)
+  uic QtWidgetsApplication.ui
+  rcc QtWidgetsApplication.qrc
+  moc QtWidgetsApplication.h
+   RCC: Warning: No resources in 'E:\QtProject\00407\00407\QtWidgetsApplication.qrc'.
+  QtWidgetsApplication.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(23,1): warning C4005: “M_E”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(225): message : 参见“M_E”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(24,1): warning C4005: “M_LOG2E”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(229): message : 参见“M_LOG2E”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(25,1): warning C4005: “M_LOG10E”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(233): message : 参见“M_LOG10E”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(26,1): warning C4005: “M_LN2”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(237): message : 参见“M_LN2”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(27,1): warning C4005: “M_LN10”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(241): message : 参见“M_LN10”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: “M_PI”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(245): message : 参见“M_PI”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(29,1): warning C4005: “M_PI_2”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(249): message : 参见“M_PI_2”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(30,1): warning C4005: “M_PI_4”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(253): message : 参见“M_PI_4”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(31,1): warning C4005: “M_1_PI”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(257): message : 参见“M_1_PI”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(23,1): warning C4005: “M_E”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(225): message : 参见“M_E”的前一个定义 (编译源文件 main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(24,1): warning C4005: “M_LOG2E”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(229): message : 参见“M_LOG2E”的前一个定义 (编译源文件 main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(32,1): warning C4005: “M_2_PI”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(261): message : 参见“M_2_PI”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(33,1): warning C4005: “M_2_SQRTPI”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(265): message : 参见“M_2_SQRTPI”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(25,1): warning C4005: “M_LOG10E”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(233): message : 参见“M_LOG10E”的前一个定义 (编译源文件 main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(34,1): warning C4005: “M_SQRT2”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(269): message : 参见“M_SQRT2”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(26,1): warning C4005: “M_LN2”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(237): message : 参见“M_LN2”的前一个定义 (编译源文件 main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(35,1): warning C4005: “M_SQRT1_2”: 宏重定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(273): message : 参见“M_SQRT1_2”的前一个定义 (编译源文件 QtWidgetsApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(27,1): warning C4005: “M_LN10”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(241): message : 参见“M_LN10”的前一个定义 (编译源文件 main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: “M_PI”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(245): message : 参见“M_PI”的前一个定义 (编译源文件 main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(29,1): warning C4005: “M_PI_2”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(249): message : 参见“M_PI_2”的前一个定义 (编译源文件 main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(30,1): warning C4005: “M_PI_4”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(253): message : 参见“M_PI_4”的前一个定义 (编译源文件 main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(31,1): warning C4005: “M_1_PI”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(257): message : 参见“M_1_PI”的前一个定义 (编译源文件 main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(32,1): warning C4005: “M_2_PI”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(261): message : 参见“M_2_PI”的前一个定义 (编译源文件 main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(33,1): warning C4005: “M_2_SQRTPI”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(265): message : 参见“M_2_SQRTPI”的前一个定义 (编译源文件 main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(34,1): warning C4005: “M_SQRT2”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(269): message : 参见“M_SQRT2”的前一个定义 (编译源文件 main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(35,1): warning C4005: “M_SQRT1_2”: 宏重定义 (编译源文件 main.cpp)
+C:\Qt\Qt6.2\6.2.4\msvc2019_64\include\QtCore\qmath.h(273): message : 参见“M_SQRT1_2”的前一个定义 (编译源文件 main.cpp)
+  qrc_QtWidgetsApplication.cpp
+  moc_QtWidgetsApplication.cpp
+QtWidgetsApplication.obj : error LNK2019: 无法解析的外部符号 "public: static void * __cdecl Standard::Allocate(unsigned __int64)" (?Allocate@Standard@@SAPEAX_K@Z)，函数 "public: static void * __cdecl Standard_Transient::operator new(unsigned __int64)" (??2Standard_Transient@@SAPEAX_K@Z) 中引用了该符号
+QtWidgetsApplication.obj : error LNK2019: 无法解析的外部符号 "public: static void __cdecl Standard::Free(void * const)" (?Free@Standard@@SAXQEAX@Z)，函数 "public: static void __cdecl Standard_Transient::operator delete(void *)" (??3Standard_Transient@@SAXPEAX@Z) 中引用了该符号
+QtWidgetsApplication.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl Standard_Transient::IncrementRefCounter(void)const " (?IncrementRefCounter@Standard_Transient@@QEBAXXZ)，函数 "private: void __cdecl opencascade::handle<class Geom_CartesianPoint>::BeginScope(void)" (?BeginScope@?$handle@VGeom_CartesianPoint@@@opencascade@@AEAAXXZ) 中引用了该符号
+QtWidgetsApplication.obj : error LNK2019: 无法解析的外部符号 "public: int __cdecl Standard_Transient::DecrementRefCounter(void)const " (?DecrementRefCounter@Standard_Transient@@QEBAHXZ)，函数 "private: void __cdecl opencascade::handle<class Geom_CartesianPoint>::EndScope(void)" (?EndScope@?$handle@VGeom_CartesianPoint@@@opencascade@@AEAAXXZ) 中引用了该符号
+QtWidgetsApplication.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Geom_CartesianPoint::Geom_CartesianPoint(double,double,double)" (??0Geom_CartesianPoint@@QEAA@NNN@Z)，函数 "public: void __cdecl QtWidgetsApplication::TestSomeThing(void)" (?TestSomeThing@QtWidgetsApplication@@QEAAXXZ) 中引用了该符号
+E:\QtProject\00407\x64\Debug\00407.exe : fatal error LNK1120: 5 个无法解析的外部命令
