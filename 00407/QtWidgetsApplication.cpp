@@ -37,7 +37,7 @@ void QtWidgetsApplication::TestSomeThing()
 
 void QtWidgetsApplication::Test()
 {
-	//mengss
+	
 
 	//08000
 }
