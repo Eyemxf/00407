@@ -31,4 +31,11 @@ void QtWidgetsApplication::TestSomeThing()
 	centre->Coord(x, y, z);
 
 #endif
+
+
+}
+
+void QtWidgetsApplication::Test()
+{
+
 }
