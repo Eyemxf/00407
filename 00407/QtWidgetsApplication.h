@@ -13,7 +13,6 @@ public:
 public:
     
     void TestSomeThing();
-    void Test();
 
 private:
     Ui::QtWidgetsApplicationClass ui;

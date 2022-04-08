@@ -34,10 +34,3 @@ void QtWidgetsApplication::TestSomeThing()
 
 
 }
-
-void QtWidgetsApplication::Test()
-{
-	
-
-	//08000
-}
